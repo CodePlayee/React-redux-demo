@@ -1,3 +1,4 @@
+react及react-redux学习初试，一个 todoList demo.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
